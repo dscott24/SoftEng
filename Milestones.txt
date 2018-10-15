@@ -1,0 +1,6 @@
+-Sitemapdone
+-gamecompleted
+-databasedone
+-payment system set up
+-database and site sucessfully linked
+-ad system set up
