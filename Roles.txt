@@ -1,1 +1,7 @@
-+-----+
+Alex: Responsible for the Sequence Diagram. He will also look for games or game ideas for the website.
+
+Andrew: Responsible for the Use case and HLA.He will research the database and how it would collect user info from the website, and how reports would be generated from it.
+
+Dieringer: Responsible for class diagram and interface specs. He will research any additional feature that we can add to the website, like ads or information on healthy lifestyle choices.  
+
+Akuete: Responsible for the requirements. He will also be responsible for the choice and design of the website. 
