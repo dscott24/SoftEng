@@ -1,6 +1,7 @@
--Sitemapdone
--gamecompleted
--databasedone
--payment system set up
--database and site sucessfully linked
--ad system set up
+-Site framework complete
+-database complete
+-payment system set up on site
+-ad system set up on site
+-game completed
+-game implemented on site
+-database and site sucessfully linked together
