@@ -1,11 +1,11 @@
 ---
 ID: 2
 post_title: Sample Page
-author: Akuete
+author: administrator
 post_excerpt: ""
 layout: page
 permalink: >
-  https://fitkidsgames.space/COSC412ProjectInstallation_10302018/index.php/sample-page/
+  http://fitkidsgames.space/index.php/sample-page/
 published: true
 post_date: 2018-03-26 21:37:25
 ---
@@ -17,4 +17,4 @@ This is an example page. It's different from a blog post because it will stay in
 
 <blockquote>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</blockquote>
 
-As a new WordPress user, you should go to <a href="http://fitkidsgames.space/COSC412ProjectInstallation_10302018/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!
+As a new WordPress user, you should go to <a href="http://fitkidsgames.space//wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!
