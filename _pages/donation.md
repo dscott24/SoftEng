@@ -1,11 +1,11 @@
 ---
-ID: 85
+ID: 51
 post_title: Donation
-author: Akuete
+author: administrator
 post_excerpt: ""
 layout: page
 permalink: >
-  https://fitkidsgames.space/COSC412ProjectInstallation_10302018/index.php/donation/
+  https://fitkidsgames.space/index.php/donation/
 published: true
-post_date: 2018-11-07 01:17:42
+post_date: 2018-11-10 08:38:16
 ---
