@@ -1,11 +1,11 @@
 ---
-ID: 83
+ID: 47
 post_title: Games
-author: Akuete
+author: administrator
 post_excerpt: ""
 layout: page
 permalink: >
-  https://fitkidsgames.space/COSC412ProjectInstallation_10302018/index.php/games/
+  https://fitkidsgames.space/index.php/games/
 published: true
-post_date: 2018-11-07 01:17:31
+post_date: 2018-11-10 08:36:50
 ---
