@@ -1,12 +1,11 @@
 ---
-ID: 75
+ID: 53
 post_title: Contact
-author: Akuete
+author: administrator
 post_excerpt: ""
 layout: page
 permalink: >
-  https://fitkidsgames.space/COSC412ProjectInstallation_10302018/index.php/contact/
+  https://fitkidsgames.space/index.php/contact/
 published: true
-post_date: 2018-11-07 01:17:17
+post_date: 2018-11-10 08:38:41
 ---
-This is a page with some basic contact information, such as an address and phone number. You might also try a plugin to add a contact form.
