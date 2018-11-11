@@ -9,4 +9,16 @@ permalink: >
 published: true
 post_date: 2018-11-07 06:10:43
 ---
-[ultimatemember form_id="7"]
+[ultimatemember form_id="7"]		
+			<a href="#" role="button">
+						Donate
+					</a>
+							<a href="" target="_blank">
+					Facebook
+				</a>
+							<a href="" target="_blank">
+					Twitter
+				</a>
+							<a href="" target="_blank">
+					Google-plus
+				</a>
