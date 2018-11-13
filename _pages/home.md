@@ -14,3 +14,15 @@ post_date: 2018-11-10 08:33:59
 			<a href="#https://fitkidsgames.space/index.php/about/?preview_id=49&amp;preview_nonce=596445d34a&amp;_thumbnail_id=-1&amp;preview=true" target="_blank" role="button">
 						join the Adventure
 					</a>
+			<a href="#" role="button">
+						Donate
+					</a>
+							<a href="" target="_blank">
+					Facebook
+				</a>
+							<a href="" target="_blank">
+					Twitter
+				</a>
+							<a href="" target="_blank">
+					Google-plus
+				</a>
