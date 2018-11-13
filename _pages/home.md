@@ -11,7 +11,7 @@ post_date: 2018-11-10 08:33:59
 ---
 <h2>fIT KIDS GAMES</h2>		
 			<p>Eat Better * Play * Stay Active</p>		
-			<a href="https://fitkidsgames.space/index.php/login/" target="_blank" role="button">
+			<a href=" https://fitkidsgames.space/index.php/login/" target="_blank" role="button">
 						join the Adventure
 					</a>
 			<a href="#" role="button">
