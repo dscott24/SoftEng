@@ -9,3 +9,4 @@ permalink: >
 published: true
 post_date: 2018-11-10 08:38:16
 ---
+[direct-stripe value="undefined"]
