@@ -13,12 +13,12 @@ post_date: 2018-11-07 06:10:43
 <a role="button" href="#">
 Donate
 </a>
-<a target="_blank" rel="noopener">
+<a href="http://www.facebook.com" target="_blank" rel="noopener">
 Facebook
 </a>
-<a target="_blank" rel="noopener">
+<a href="http://www.twitter.com" target="_blank" rel="noopener">
 Twitter
 </a>
-<a target="_blank" rel="noopener">
+<a href="http://www.google.com" target="_blank" rel="noopener">
 Google-plus
 </a>
