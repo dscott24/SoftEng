@@ -9,20 +9,21 @@ permalink: >
 published: true
 post_date: 2018-11-10 08:33:59
 ---
-<h2>fIT KIDS GAMES</h2>		
-			<p>Eat Better * Play * Stay Active</p>		
-			<a href=" https://fitkidsgames.space/index.php/login/" target="_blank" role="button">
-						join the Adventure
-					</a>
-			<a href="#" role="button">
-						Donate
-					</a>
-							<a href="" target="_blank">
-					Facebook
-				</a>
-							<a href="" target="_blank">
-					Twitter
-				</a>
-							<a href="" target="_blank">
-					Google-plus
-				</a>
+<h2>fIT KIDS GAMES</h2>
+Eat Better * Play * Stay Active
+
+<a role="button" href="https://fitkidsgames.space/index.php/register/" rel="noopener">
+Join the Adventure
+</a>
+<a role="button" href="#">
+Donate
+</a>
+<a target="_blank" rel="noopener">
+Facebook
+</a>
+<a target="_blank" rel="noopener">
+Twitter
+</a>
+<a target="_blank" rel="noopener">
+Google-plus
+</a>
