@@ -12,3 +12,12 @@ post_date: 2018-11-07 06:10:43
 			<a href="https://fitkidsgames.space/donation/" role="button">
 						Donate
 					</a>
+							<a href="" target="_blank">
+					Facebook
+				</a>
+							<a href="" target="_blank">
+					Twitter
+				</a>
+							<a href="" target="_blank">
+					Google-plus
+				</a>
