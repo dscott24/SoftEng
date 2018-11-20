@@ -8,16 +8,16 @@ permalink: https://fitkidsgames.space/login/
 published: true
 post_date: 2018-11-07 06:10:43
 ---
-[ultimatemember form_id="7"]
-<a role="button" href="#">
-Donate
-</a>
-<a href="http://www.facebook.com" target="_blank" rel="noopener">
-Facebook
-</a>
-<a href="http://www.twitter.com" target="_blank" rel="noopener">
-Twitter
-</a>
-<a href="http://www.google.com" target="_blank" rel="noopener">
-Google-plus
-</a>
+<p>[ultimatemember form_id="7"]<br /><a href="http://www.twitter.com" target="_blank" rel="noopener"><br /></a></p>		
+			<a href="#" role="button">
+						Donate
+					</a>
+							<a href="" target="_blank">
+					Facebook
+				</a>
+							<a href="" target="_blank">
+					Twitter
+				</a>
+							<a href="" target="_blank">
+					Google-plus
+				</a>
