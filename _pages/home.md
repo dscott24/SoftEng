@@ -13,7 +13,7 @@ post_date: 2018-11-10 08:33:59
 			<a href=" https://fitkidsgames.space/register" role="button" id="btnRegister">
 						Join the Adventure
 					</a>
-			<a href="#" role="button">
+			<a href="https://fitkidsgames.space/donation/" role="button">
 						Donate
 					</a>
 							<a href="" target="_blank">
