@@ -9,9 +9,6 @@ published: true
 post_date: 2018-11-07 06:10:43
 ---
 <p>[ultimatemember form_id="7"]<br /><a href="http://www.twitter.com" target="_blank" rel="noopener"><br /></a></p>		
-			<a href="#" role="button">
-						Donate
-					</a>
 							<a href="" target="_blank">
 					Facebook
 				</a>
@@ -21,3 +18,6 @@ post_date: 2018-11-07 06:10:43
 							<a href="" target="_blank">
 					Google-plus
 				</a>
+			<a href="https://fitkidsgames.space/donation/" role="button">
+						Donate
+					</a>
