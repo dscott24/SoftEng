@@ -21,3 +21,4 @@ post_date: 2018-11-07 06:10:43
 							<a href="" target="_blank">
 					Google-plus
 				</a>
+do_action(‘google_invre_render_widget_action’);
