@@ -18,6 +18,6 @@ post_date: 2018-11-07 06:10:47
 							<a href="https://twitter.com" target="_blank">
 					Twitter
 				</a>
-							<a href="https://plus.google.com/discover" target="_blank">
+							<a href="https://plus.google.com" target="_blank">
 					Google-plus
 				</a>
