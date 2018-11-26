@@ -18,4 +18,4 @@ post_date: 2018-11-10 08:38:16
 							<a href="https://plus.google.com" target="_blank">
 					Google-plus
 				</a>
-		<p>Help us make a difference in our students lives by donating to our project.</p>
+		<p>Help us make a difference in our students lives by donating to our project</p>
