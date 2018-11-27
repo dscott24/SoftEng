@@ -4,7 +4,7 @@ post_title: Home
 author: administrator
 post_excerpt: ""
 layout: page
-permalink: https://fitkidsgames.space/home/
+permalink: https://fitkidsgames.space/
 published: true
 post_date: 2018-11-10 08:33:59
 ---
