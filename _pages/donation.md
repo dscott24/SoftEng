@@ -8,4 +8,7 @@ permalink: https://fitkidsgames.space/donation/
 published: true
 post_date: 2018-11-10 08:38:16
 ---
-[direct-stripe value="ds-1542086185599"]
+<span style="display: inline !important; float: none; background-color: transparent; color: #333333; cursor: text; font-family: Georgia,'Times New Roman','Bitstream Charter',Times,serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">[direct-stripe value="ds-1542086185599"]</span>
+
+
+<img class="wp-image-137 alignleft" style="margin: 0px 273px; outline: #72777c solid 1px; height: 326px; text-align: left; color: #747474; text-transform: none; text-indent: 0px; letter-spacing: normal; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; text-decoration: none; word-spacing: 0px; display: block; white-space: normal; max-width: 976px; orphans: 2; -webkit-text-stroke-width: 0px; background-color: transparent;" src="https://fitkidsgames.space/wp-content/uploads/2018/11/card-celebration-envelope-867462-300x200.jpg" alt="" width="489" height="286" />
