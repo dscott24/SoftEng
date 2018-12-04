@@ -25,4 +25,4 @@ Health info
 </ul>
 References:
 
-https://www.eufic.org/en/healthy-living/article/10-healthy-lifestyle-tips-for-adults<!--more-->
+<a href="https://www.eufic.org/en/healthy-living/article/10-healthy-lifestyle-tips-for-adults">https://www.eufic.org/en/healthy-living/article/10-healthy-lifestyle-tips-for-adults</a>
