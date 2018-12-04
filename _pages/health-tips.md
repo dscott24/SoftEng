@@ -9,7 +9,8 @@ published: true
 post_date: 2018-11-29 03:05:21
 ---
 Health Tips
-                                                               [embed]https://www.youtube.com/watch?v=ZNLqpRmMGT4#action=share[/embed]
+
+[embed]https://www.youtube.com/watch?v=ZNLqpRmMGT4#action=share[/embed]
 <ul>
  	<li>Eat a variety of foods</li>
  	<li>Base your diet on plenty of foods rich in carbohydrates</li>
