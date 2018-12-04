@@ -8,9 +8,7 @@ permalink: https://fitkidsgames.space/health-tips/
 published: true
 post_date: 2018-11-29 03:05:21
 ---
-Fit Kids Games
-
-Health info
+Health Tips
 <ul>
  	<li>Eat a variety of foods</li>
  	<li>Base your diet on plenty of foods rich in carbohydrates</li>
