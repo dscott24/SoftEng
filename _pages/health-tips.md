@@ -8,20 +8,39 @@ permalink: https://fitkidsgames.space/health-tips/
 published: true
 post_date: 2018-11-29 03:05:21
 ---
-Health Tips
-
+<h3>Health Tips</h3>
 [embed]https://www.youtube.com/watch?v=ZNLqpRmMGT4#action=share[/embed]
 <ul>
- 	<li>Eat a variety of foods</li>
- 	<li>Base your diet on plenty of foods rich in carbohydrates</li>
- 	<li>Replace saturated with unsaturated fat</li>
- 	<li>Enjoy plenty of fruits and vegetables</li>
- 	<li>Reduce salt and sugar intake</li>
- 	<li>Eat regularly, control the portion size</li>
- 	<li>Drink plenty of fluids</li>
- 	<li>Maintain a healthy body weight</li>
- 	<li>Get on the move, make it a habit!</li>
- 	<li>Start now! And keep changing gradually.</li>
+ 	<li>
+<h4>Eat a variety of foods</h4>
+</li>
+ 	<li>
+<h4>Base your diet on plenty of foods rich in carbohydrates</h4>
+</li>
+ 	<li>
+<h4>Replace saturated with unsaturated fat</h4>
+</li>
+ 	<li>
+<h4>Enjoy plenty of fruits and vegetables</h4>
+</li>
+ 	<li>
+<h4>Reduce salt and sugar intake</h4>
+</li>
+ 	<li>
+<h4>Eat regularly, control the portion size</h4>
+</li>
+ 	<li>
+<h4>Drink plenty of fluids</h4>
+</li>
+ 	<li>
+<h4>Maintain a healthy body weight</h4>
+</li>
+ 	<li>
+<h4>Get on the move, make it a habit!</h4>
+</li>
+ 	<li>
+<h4>Start now! And keep changing gradually.</h4>
+</li>
 </ul>
 References:
 
