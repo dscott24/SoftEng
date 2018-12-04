@@ -8,7 +8,7 @@ permalink: https://fitkidsgames.space/about/
 published: true
 post_date: 2018-11-10 08:37:36
 ---
-<h4 style="text-align: center;">Our goal is to create a fun, interactive learning environment for children which educates them on healthy lifestyle choices.</h4>
+<h4 style="text-align: center;">Our goal is to create a fun, interactive learning environment for children to educates them on healthy lifestyle choices.</h4>
 https://www.youtube.com/watch?v=-JldSBUQB34
 
 References:
