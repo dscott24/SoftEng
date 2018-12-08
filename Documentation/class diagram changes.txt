@@ -1,0 +1,21 @@
+School admin
+	remove 	resetPassword(): void
+	add		susspendAccount(): void
+	add		reactivateAccount(): void
+Website Admin
+	move	respToUser -> functoins
+	add		approveUser(): void
+Teacher
+	add		-classcode: String
+	add		requestApproval(): void
+rename child -> user
+	add		-classID: StringArray[]
+	add		addTeacher(): void
+	change	progress(): bool -> int
+	remove	playGame():
+Accounts
+	remove
+	
+Move  all Accounts items to the user accounts
+reove the accounts inteface
+ensure that all accounts do to data base
