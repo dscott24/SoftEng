@@ -9,7 +9,7 @@ published: true
 post_date: 2018-11-10 08:33:59
 ---
 <h2>FIT KIDS GAMES</h2>
-<iframe width="960" height="720" src="https://www.youtube.com/embed/mMHVEFWNLMc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=mMHVEFWNLMc
 
 References:
 
