@@ -1,6 +1,6 @@
 ---
 ID: 45
-post_title: Home
+post_title: ""
 author: administrator
 post_excerpt: ""
 layout: page
