@@ -9,7 +9,7 @@ published: true
 post_date: 2018-11-10 08:33:59
 ---
 <h2>FIT KIDS GAMES</h2>
-https://www.youtube.com/watch?v=mMHVEFWNLMc
+[su_youtube_advanced url="https://www.youtube.com/watch?v=mMHVEFWNLMc" width="1160" height="540" autoplay="yes"]
 
 References:
 
