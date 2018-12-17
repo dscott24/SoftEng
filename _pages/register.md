@@ -1,6 +1,6 @@
 ---
 ID: 13
-post_title: Register
+post_title: ""
 author: administrator
 post_excerpt: ""
 layout: page
