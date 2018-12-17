@@ -8,16 +8,16 @@ permalink: https://fitkidsgames.space/contact/
 published: true
 post_date: 2018-11-10 08:38:41
 ---
-<p><strong>If you have any questions or need technical support, please feel free to contact us!</strong></p>
-<p></p>
-<p><strong>Fit Kids Games&nbsp;</strong></p>
-<p><strong>0001 Heaven Street</strong></p>
-<p><strong>Los Angeles, CA 09000</strong></p>
-<p><strong>Telephone: 800-FIT-KIDS</strong></p>
-<p></p>
+<p>If you have any questions or need technical support, please feel free to contact us!</p>
+<p> </p>
+<p>Fit Kids Games </p>
+<p>0001 Heaven Street</p>
+<p>Los Angeles, CA 09000</p>
+<p>Phone: 800-FIT-KIDS</p>
+<p> </p>
 <p>[contact-form-7 id="286" title="Contact form 1"]</p>
-<p></p>
-<p></p>
+<p> </p>
+<p> </p>
 
 <!-- wp:columns -->
 <div class="wp-block-columns has-2-columns"><!-- wp:column -->
