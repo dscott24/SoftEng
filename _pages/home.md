@@ -15,4 +15,4 @@ References:
 
 <a href="https://www.youtube.com/watch?v=mMHVEFWNLMc">https://www.youtube.com/watch?v=mMHVEFWNLMc</a>
 
-<a href="http://tntgetfit.com/11-kid-friendly-activities-for-healthy-kids-all-year-round/">http://tntgetfit.com/11-kid-friendly-activities-for-healthy-kids-all-year-round/</a>
+http://tntgetfit.com/11-kid-friendly-activities-for-healthy-kids-all-year-round/
