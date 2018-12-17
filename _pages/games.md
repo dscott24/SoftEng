@@ -9,4 +9,4 @@ published: true
 post_date: 2018-11-10 08:36:50
 ---
 <h2>Games</h2>
-[magicfood]
+<p style="text-align: center;">[magicfood]</p>
