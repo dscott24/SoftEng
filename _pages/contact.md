@@ -16,8 +16,8 @@ post_date: 2018-11-10 08:38:41
 <p><strong>0001 Heaven Street</strong></p>
 <p><strong>Los Angeles, CA 09000</strong></p>
 <p><strong>Telephone</strong></p>
-<p><strong>800-000-0000</strong></p>
-<p> </p>
+<p><strong>800-FIT-KIDS</strong></p>
+<p>Do you have any question? </p>
 <p>[contact-form-7 id="286" title="Contact form 1"]</p>
 <p> </p>
 <p> </p>
