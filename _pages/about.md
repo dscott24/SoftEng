@@ -1,6 +1,6 @@
 ---
 ID: 49
-post_title: About
+post_title: ""
 author: administrator
 post_excerpt: ""
 layout: page
