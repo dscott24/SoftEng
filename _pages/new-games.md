@@ -13,21 +13,9 @@ post_date: 2018-12-17 18:04:23
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Games</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
 <p>Welcome member. You can now enjoy many more games. Have fun!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>[bicyclerun]</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>[courtbasketbal]</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>[sprinter]</p>
+<p>[magicfood]</p>
 <!-- /wp:paragraph -->
