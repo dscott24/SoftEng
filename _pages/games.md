@@ -1,6 +1,6 @@
 ---
 ID: 47
-post_title: ""
+post_title: Games
 author: administrator
 post_excerpt: ""
 layout: page
