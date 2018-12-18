@@ -46,3 +46,20 @@ post_date: 2018-12-17 18:04:23
 <!-- wp:paragraph -->
 <p>[funnyfruits]</p>
 <!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><br></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"miniclip-game-embed"} -->
+
+<div class="miniclip-game-embed" data-game-name="euro-soccer-forever" data-theme="5" data-width="960" data-height="640" data-language="en"><a href="https://www.miniclip.com/games/euro-soccer-forever/">Play Euro Soccer Forever</a></div>
+<p style="text-align:center;">
+    <a href="https://www.miniclip.com/games/euro-soccer-forever/" target="_blank">Play Euro Soccer Forever</a> -
+    <a href="https://www.miniclip.com/games/genre-18/" target="_blank">More Soccer games</a> -
+    <a href="https://www.miniclip.com/terms" target="_blank">Terms and Conditions</a> -
+    <a href="https://www.miniclip.com/privacy" target="_blank">Privacy Policy</a>
+</p>
+
+<script src="//static.miniclipcdn.com/js/game-embed.js"></script>
+<!-- /wp:paragraph -->
