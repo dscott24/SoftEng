@@ -8,6 +8,5 @@ permalink: https://fitkidsgames.space/games/
 published: true
 post_date: 2018-11-10 08:36:50
 ---
-<h2>Game</h2>
-Create and account to enjoy more games!
+<h2>Want to play more games? Create and account today!</h2>
 <p style="text-align: center;">[magicfood]</p>
