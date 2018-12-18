@@ -9,7 +9,7 @@ published: true
 post_date: 2018-12-18 01:37:03
 ---
 <!-- wp:paragraph -->
-<p>Thanks for joining Fit Kids Games! You can now enjoy additional games. Have fun and remember to stay active and eat healthy!</p>
+<p><strong>Thanks for joining Fit Kids Games! You can now enjoy additional games. Have fun and remember to stay active and eat healthy!</strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
