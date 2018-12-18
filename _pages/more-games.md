@@ -21,12 +21,12 @@ post_date: 2018-12-18 01:37:03
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
-< div class="video-container"> <iframe> <script src="//static.miniclipcdn.com/js/game-embed.js"></script>
+<script src="//static.miniclipcdn.com/js/game-embed.js"></script>
 <div class="miniclip-game-embed" data-theme="5" data-language="en" data-height="640" data-width="980" data-game-name="rio-2016-olympic-games"><a href="https://www.miniclip.com/games/rio-2016-olympic-games/">Play Rio 2016 Olympic Games</a></div>
 <p style="text-align: center;">
     <a href="https://www.miniclip.com/games/rio-2016-olympic-games/" target="_blank">Play Rio 2016 Olympic Games</a> -
     <a href="https://www.miniclip.com/games/genre-3/" target="_blank">More Sports games</a> -
     <a href="https://www.miniclip.com/terms" target="_blank">Terms and Conditions</a> -
     <a href="https://www.miniclip.com/privacy" target="_blank">Privacy Policy</a>
-</p> </iframe> </div>
+</p> 
 <!-- /wp:html -->
