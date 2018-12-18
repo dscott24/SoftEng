@@ -23,3 +23,7 @@ post_date: 2018-12-17 18:04:23
 <!-- wp:paragraph -->
 <p>[funnyfruits]</p>
 <!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>[game-category id="13]</p>
+<!-- /wp:paragraph -->
