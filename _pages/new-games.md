@@ -9,27 +9,7 @@ published: true
 post_date: 2018-12-17 18:04:23
 ---
 <!-- wp:paragraph -->
-<p>Games</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Welcome member. You can now enjoy many more games. Have fun!</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><br></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><br><br>[magicfood]</p>
+<p>Thanks for joining! You can now play additional games. Have fun and remember to stay active and eat healthy!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -51,7 +31,7 @@ post_date: 2018-12-17 18:04:23
 <p><br></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph {"className":"miniclip-game-embed"} -->
+<!-- wp:html -->
 
 <div class="miniclip-game-embed" data-game-name="euro-soccer-forever" data-theme="5" data-width="960" data-height="640" data-language="en"><a href="https://www.miniclip.com/games/euro-soccer-forever/">Play Euro Soccer Forever</a></div>
 <p style="text-align:center;">
@@ -62,4 +42,4 @@ post_date: 2018-12-17 18:04:23
 </p>
 
 <script src="//static.miniclipcdn.com/js/game-embed.js"></script>
-<!-- /wp:paragraph -->
+<!-- /wp:html -->
