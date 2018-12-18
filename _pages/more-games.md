@@ -1,6 +1,6 @@
 ---
 ID: 560
-post_title: More Games
+post_title: ""
 author: administrator
 post_excerpt: ""
 layout: page
