@@ -25,5 +25,5 @@ post_date: 2018-12-17 18:04:23
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>[game-category id="13]</p>
+<p>[game-category id="3]</p>
 <!-- /wp:paragraph -->
