@@ -1,6 +1,6 @@
 ---
 ID: 254
-post_title: Health Tips
+post_title: ""
 author: administrator
 post_excerpt: ""
 layout: page
@@ -9,7 +9,7 @@ published: true
 post_date: 2018-11-29 03:05:21
 ---
 <h2>Health Tips</h2>
-<p>[embed]https://www.youtube.com/watch?v=ZNLqpRmMGT4#action=share[/embed]</p>
+<p>[su_youtube url="https://www.youtube.com/watch?v=ZNLqpRmMGT4" width="640" height="360" autoplay="yes"]</p>
 <ul>
 <li>
 <h4>Eat a variety of foods</h4>
